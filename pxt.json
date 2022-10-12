@@ -11,8 +11,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts",
-        "_locales/zh-cn/main-strings.json"
+        "yhdiy.ts",
+        "_locales/zh-cn/yhdiy-strings.json"
     ],
     "testFiles": [
         "test.ts"
