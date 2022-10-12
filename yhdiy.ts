@@ -52,7 +52,7 @@ load dependency
 "robotbit": "file:../pxt-robotbit"
 */
 
-//% color="#31C7D5" weight=10 icon="\uf1d0" block="月华DIY"
+//% color="#31C7D5" weight=10 icon="\uf1d0" block="yhdiy1"
 namespace yhdiy {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
