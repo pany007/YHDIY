@@ -1,7 +1,7 @@
 {
-    "name": "yhdiy",
+    "name": "ZMROBO",
     "version": "1.1.2",
-    "description": "月华路小学机器人DIY",
+    "description": "ZMROBO 1.1.1版本",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -11,8 +11,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "yhdiy.ts",
-        "_locales/zh-cn/yhdiy-strings.json"
+        "zmrobo.ts",
+        "_locales/zh-cn/ZMROBO-strings.json"
     ],
     "testFiles": [
         "test.ts"
