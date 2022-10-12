@@ -52,8 +52,8 @@ load dependency
 "robotbit": "file:../pxt-robotbit"
 */
 
-//% color="#31C7D5" weight=10 icon="\uf1d0" block="ZMROBO"
-namespace zmrobo {
+//% color="#31C7D5" weight=10 icon="\uf1d0" block="YHDIY"
+namespace yhdiy {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
     const MODE2 = 0x01
